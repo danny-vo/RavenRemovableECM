@@ -1,0 +1,16 @@
+
+{
+    "Name": "Raven Removable ECM",
+    "Enabled": true,
+    "Version": "1.0.0",
+    "Description": "Allows removal of ECM upgrades from the Raven",
+    "Author": "danny-vo",
+
+    "Manifest": [
+        {
+            "Type": "ItemCollectionDef",
+            "Path": "itemCollections",
+            "ShouldAppendText": true
+        }
+    ]
+}
