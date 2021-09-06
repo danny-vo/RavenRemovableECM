@@ -8,9 +8,14 @@
 
     "Manifest": [
         {
-            "Type": "ItemCollectionDef",
-            "Path": "itemCollections",
-            "ShouldAppendText": true
+            "Type": "ChassisDef",
+            "Path": "chassis/",
+            "ShouldMergeJSON": false
+        },
+        {
+            "Type": "MechDef",
+            "Path": "mech/",
+            "ShouldMergeJSON": false
         }
     ]
 }
