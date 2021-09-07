@@ -8,11 +8,16 @@
 
     "Manifest": [
         {
-            "Type": "ChassisDef",
-            "Path": "chassis/",
-            "ShouldMergeJSON": false
+            "Type": "AdvancedJSONMerge",
+            "Path": "advanced/"
         },
         {
+            "_todo": "use advanced merge for rvn-3 chassis (modtek not finding id)",
+            "Type": "ChassisDef",
+            "Path": "chassis/"
+        },
+        {
+            "_todo": "use advanced merge for mechdefs (modtek not finding ids)",
             "Type": "MechDef",
             "Path": "mech/",
             "ShouldMergeJSON": false
