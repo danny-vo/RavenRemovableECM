@@ -1,0 +1,88 @@
+{
+    "inventory" : [
+        {
+            "MountedLocation" : "LeftTorso",
+            "ComponentDefID" : "Gear_Sensor_Prototype_EWE",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightArm",
+            "ComponentDefID" : "Weapon_Laser_MediumLaser_0-STOCK",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Weapon",
+            "HardpointSlot" : 0,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightArm",
+            "ComponentDefID" : "Weapon_Laser_MediumLaser_0-STOCK",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Weapon",
+            "HardpointSlot" : 1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightTorso",
+            "ComponentDefID" : "Weapon_SRM_SRM6_0-STOCK",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Weapon",
+            "HardpointSlot" : 0,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "LeftTorso",
+            "ComponentDefID" : "Ammo_AmmunitionBox_Generic_SRM",
+            "SimGameUID" : "",
+            "ComponentDefType" : "AmmunitionBox",
+            "HardpointSlot" : -1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightLeg",
+            "ComponentDefID" : "Gear_HeatSink_Generic_Standard",
+            "SimGameUID" : "",
+            "ComponentDefType" : "HeatSink",
+            "HardpointSlot" : -1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "LeftLeg",
+            "ComponentDefID" : "Gear_HeatSink_Generic_Standard",
+            "SimGameUID" : "",
+            "ComponentDefType" : "HeatSink",
+            "HardpointSlot" : -1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        }
+    ]
+}

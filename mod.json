@@ -2,25 +2,7 @@
 {
     "Name": "Raven Removable ECM",
     "Enabled": true,
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Description": "Allows removal of ECM upgrades from the Raven",
-    "Author": "danny-vo",
-
-    "Manifest": [
-        {
-            "Type": "AdvancedJSONMerge",
-            "Path": "advanced/"
-        },
-        {
-            "_todo": "use advanced merge for rvn-3 chassis (modtek not finding id)",
-            "Type": "ChassisDef",
-            "Path": "chassis/"
-        },
-        {
-            "_todo": "use advanced merge for mechdefs (modtek not finding ids)",
-            "Type": "MechDef",
-            "Path": "mech/",
-            "ShouldMergeJSON": false
-        }
-    ]
+    "Author": "danny-vo"
 }
