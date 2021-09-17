@@ -1,4 +1,8 @@
 {
+    "RequiredToSpawnCompanyTags" : {
+        "items" : [],
+        "tagSetSourceFile" : ""
+    },
     "inventory" : [
         {
             "MountedLocation" : "LeftTorso",
